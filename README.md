@@ -4,6 +4,8 @@
 
 🚀 **Live Demo:** [https://micro-six-lemon.vercel.app](https://micro-six-lemon.vercel.app)
 
+🐙 **GitHub:** [https://github.com/laya-sree/micro-project-](https://github.com/laya-sree/micro-project-)
+
 ---
 
 ## ✨ Features
